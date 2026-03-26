@@ -274,7 +274,7 @@ function WelcomeScreen({ onStart }: { onStart: (name: string) => void }) {
               transition={{ delay: 0.6 }}
               className="text-2xl text-slate-500 font-medium max-w-lg mx-auto leading-relaxed"
             >
-              Cùng ĐẤU TRƯỜNG TỪ VỰNG khám phá thế giới từ vựng lớp 5 qua những trò chơi hấp dẫn nhất.
+              Cùng tham gia ĐẤU TRƯỜNG TỪ VỰNG để khám phá thế giới từ vựng lớp 5 qua những trò chơi hấp dẫn nhất.
             </motion.p>
           </div>
         </div>
